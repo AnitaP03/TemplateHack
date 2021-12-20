@@ -7,6 +7,7 @@
 ### Link al Tiktok ().
 
 ### Diagrama de Azure
+![image](https://user-images.githubusercontent.com/94340921/146696484-786c2757-8d22-4a14-9b90-eba175ad6d8d.png)
 
 ### SLA Compuesto
 
